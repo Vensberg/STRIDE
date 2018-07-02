@@ -5,7 +5,7 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 
 |Date|Start time|Content|Assignment|Assignment due|
 |--- |---       |---    |---       |---           |
-|July 9th|2:00 P.M.|<li>Introductions</li> <li>Overview of question, hypothesis, testing set</li> <li>OSF, Google Drive, GitHub setup</li> <li>Workable DM Plan</li>|- Define question to be answered by the end of STRIDE - Explain how data will help you answer it - Commit to test vs experimental set - Write data management plan|July 11th|
+|July 9th|2:00 P.M.| <li>Introductions</li> <li>Overview of question, hypothesis, testing set</li> <li>OSF, Google Drive, GitHub setup</li> <li>Workable DM Plan</li>| <li>Define question to be answered by the end of STRIDE</li><li>Explain how data will help you answer it</li><li>Commit to test vs experimental set</li><li>Write data management plan<li>|July 11th|
 
 <tr>
 <td></td>
