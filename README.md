@@ -30,4 +30,4 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |August 14th|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation|August 16-17|
 |August 15th|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation|August 16-17|
 |August 16th|1:00 P.M.|TBD|Final presentations|||
-|August 17th|1:00 P.M.|TBD|<ul><li>Final presentations</li><li>Incubator assessment</li><ul>|||
+|August 17th|1:00 P.M.|Shields 362|<ul><li>Final presentations</li><li>Incubator assessment</li><ul>|||
