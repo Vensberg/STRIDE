@@ -17,10 +17,10 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 <tr>
 <td>July 9th</td>
 <td>2:00 P.M.</td>
-<td>- Introductions
- - Overview of question, hypothesis, testing set
- - OSF, Google Drive, GitHub setup
- - Workable DM Plan</td>
+<td>* Introductions
+ * Overview of question, hypothesis, testing set
+ * OSF, Google Drive, GitHub setup
+ * Workable DM Plan</td>
 <td>
  - Define question to be answered by the end of STRIDE
  - Explain how data will help you answer it
