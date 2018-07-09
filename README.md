@@ -18,7 +18,6 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 23th|1:00 P.M.|Shields 362|Introduction to mapping|||
 |July 24th|1:00 P.M.|Shields 362|Introduction to Voyant, text mining|||
 |July 25th|1:00 P.M.|Shields 362|Introduction to network mapping with Gephi|||
-|July 25th|1:00 P.M.|Shields 362|Introduction to network mapping with Gephi|||
 |July 26th|1:00 P.M.|Shields 362|Introduction to Inkscape|||
 |July 27th|1:00 P.M.|Shields 362|Independent work with support|||
 |July 30th|1:00 P.M.|Shields 362|<ul><li>Check in with Vessela</li><li>Independent work with support</li><ul>|||
