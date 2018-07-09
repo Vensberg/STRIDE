@@ -15,7 +15,7 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 18th|1:00 P.M.|Shields 362|Data cleaning: missing data, variables for analysis, range values|Clean your data|July 20th|
 |July 19th|1:00 P.M.|Shields 362||Clean your data|July 20th|
 |July 20th|1:00 P.M.|Shields 362|Check in with Vessela|Finish cleaning your data|July 20th|
-|July 23th|1:00 P.M.|Shields 362|Introduction to mapping|||
+|July 23th|2:00 P.M.|Shields 362|Introduction to mapping|||
 |July 24th|1:00 P.M.|Shields 362|Introduction to Voyant, text mining|||
 |July 25th|1:00 P.M.|Shields 362|Introduction to network mapping with Gephi|||
 |July 26th|1:00 P.M.|Shields 362|Introduction to Inkscape|||
@@ -25,6 +25,11 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |August 1st|1:00 P.M.|DSI space (conference room unavailable)|Independent work with support|||
 |August 2nd|1:00 P.M.|Shields 362|Independent work with support|||
 |August 3rd|1:00 P.M.|Shields 362|<ul><li>Check in with Vessela</li><li>Independent work with support</li><ul>|||
+|August 6th|1:00 P.M.|DSI space (conference room unavailable)|Independent work with support|||
+|August 7th|1:00 P.M.|Shields 362|Independent work with support|||
+|August 8th|1:00 P.M.|Shields 362|Independent work with support|||
+|August 9th|1:00 P.M.|Shields 362|Independent work with support|||
+|August 10th|1:00 P.M.|Shields 362|Independent work with support|||
 |August 13th|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation|August 16-17|
 |August 14th|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation|August 16-17|
 |August 15th|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation|August 16-17|
