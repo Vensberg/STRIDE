@@ -15,7 +15,7 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 18th|1:00 P.M.|Shields 362|Data cleaning: missing data, variables for analysis, range values|Clean your data|July 20th|
 |July 19th|1:00 P.M.|Shields 362||Clean your data|July 20th|
 |July 20th|1:00 P.M.|Shields 362|Check in with Vessela|Finish cleaning your data|July 20th|
-|July 23th|2:00 P.M.|Shields 362|Introduction to mapping|||
+|July 23th|1:00 P.M.|Shields 362|Introduction to mapping|||
 |July 24th|1:00 P.M.|Shields 362|Introduction to Voyant, text mining|||
 |July 25th|1:00 P.M.|Shields 362|Introduction to network mapping with Gephi|||
 |July 26th|1:00 P.M.|Shields 362|Introduction to Inkscape|||
