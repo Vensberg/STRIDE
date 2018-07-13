@@ -10,7 +10,7 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 11th|1:00 P.M.|Shields 362|<ul><li>Present your research question, data management plan, query (if relevant): 15 min</li><li>Introduction to R (if relevant)</li></ul>|[Swirl exercises](https://swirlstats.com/students.html) (if relevant)| July 12th|
 |July 12th|1:00 P.M.|Shields 362|Introduction to R (if relevant) based on [Data Carpentry](https://datacarpentry.org/r-socialsci/02-starting-with-data/index.html), [data](http://swcarpentry.github.io/r-novice-inflammation/11-supp-read-write-csv/index.html), [R for Data Science](http://r4ds.had.co.nz/lists.html)|Literature review|July 17th|
 |July 13th|2:00 P.M.|Shields 362|Getting your data: introduction to API, scraping|Get your data|July 17th|
-|July 16th|1:00 P.M.|Shields 362|<ul><li>Finish your review. Work on getting your data</li><li>Check in with Vessela</li></ul>|Review due July 17th|
+|July 16th|1:00 P.M.|Shields 362|<ul><li>Finish your review.</li><li>Work on getting your data</li></ul>|Review due July 17th|
 |July 17th|1:00 P.M.|Shields 362|<ul><li>Finish getting your data</li><li>Check in with Vessela</li></ul>||
 |July 18th|1:00 P.M.|Shields 362|<ul><li>JSON, XML, HTML data formats</li><li>OpenRefine introduction</li><li>RegEx</li><li>Getting data in tabular/plain text format</li><li>Cleaning XML/HTML in R</li></ul>|Get your data into the correct format|July 18th|
 |July 19th|1:00 P.M.|Shields 362|Data cleaning: missing data, variables for analysis, range values|Clean your data|July 20th|
