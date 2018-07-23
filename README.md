@@ -12,14 +12,14 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 13th|2:00 P.M.|Shields 362|Getting your data: introduction to API, scraping|Get your data|July 17th|
 |July 16th|1:00 P.M.|Shields 362|<ul><li>Finish your review.</li><li>Work on getting your data</li></ul>|Review due July 17th|
 |July 17th|1:00 P.M.|Shields 362|<ul><li>Finish getting your data</li><li>Check in with Vessela</li></ul>||
-|July 18th|1:00 P.M.|Shields 362|<ul><li>JSON, XML, HTML data formats</li><li>OpenRefine introduction</li><li>RegEx</li><li>Getting data in tabular/plain text format</li><li>Cleaning XML/HTML in R</li></ul>|Get your data into the correct format|July 18th|
+|July 18th|1:00 P.M.|Shields 362|Finish getting data|July 18th|
 |July 19th|1:00 P.M.|Shields 362|Data cleaning: missing data, variables for analysis, range values|Clean your data|July 20th|
 |July 20th|1:00 P.M.|Shields 362|Check in with Vessela|Finish cleaning your data|July 20th|
-|July 23th|1:00 P.M.|Shields 362|Introduction to mapping|||
+|July 23th|2:00 P.M.|Shields 362|<ul><li>JSON, XML, HTML data formats</li><li>OpenRefine introduction</li><li>RegEx</li><li>Getting data in tabular/plain text format</li><li>Cleaning XML/HTML in R</li></ul>|Get your data into the correct format||
 |July 24th|1:00 P.M.|Shields 362|Introduction to Voyant, text mining|||
 |July 25th|1:00 P.M.|Shields 362|Introduction to network mapping with Gephi|||
 |July 26th|1:00 P.M.|Shields 362|Introduction to Inkscape|||
-|July 27th|1:00 P.M.|Shields 362|Independent work with support|||
+|July 27th|1:00 P.M.|Shields 362|Introduction to mapping|||
 |July 30th|1:00 P.M.|Shields 362|<ul><li>Check in with Vessela</li><li>Independent work with support</li><ul>|||
 |July 31st|1:00 P.M.|Shields 362|Independent work with support|||
 |August 1st|1:00 P.M.|DSI space (conference room unavailable)|Independent work with support|||
