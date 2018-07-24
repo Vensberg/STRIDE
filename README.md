@@ -15,7 +15,7 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 18th|1:00 P.M.|Shields 362|Finish getting data|July 18th|
 |July 19th|1:00 P.M.|Shields 362|Data cleaning: missing data, variables for analysis, range values|Clean your data|July 20th|
 |July 20th|1:00 P.M.|Shields 362|Check in with Vessela|Finish cleaning your data|July 20th|
-|July 23th|2:00 P.M.|Shields 362|<ul><li>JSON, XML, HTML data formats</li><li>OpenRefine introduction</li><li>RegEx</li><li>Getting data in tabular/plain text format</li><li>Cleaning XML/HTML in R</li></ul>|Get your data into the correct format||
+|July 23th|2:00 P.M.|Shields 362|<ul><li>[JSON](https://www.json.org/), XML, HTML data formats</li><li>OpenRefine introduction</li><li>[RegEx](http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf), https://regex101.com, https://regexone.com/</li><li>Getting data in tabular/plain text format</li><li>Cleaning XML/HTML in R</li></ul>|Get your data into the correct format||
 |July 24th|1:00 P.M.|Shields 362|Introduction to Voyant, text mining|||
 |July 25th|1:00 P.M.|Shields 362|Introduction to network mapping with Gephi|||
 |July 26th|1:00 P.M.|Shields 362|Introduction to Inkscape|||
