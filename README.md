@@ -18,14 +18,14 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 23th|2:00 P.M.|Shields 362|<ul><li>[JSON](https://www.json.org/), XML, HTML data formats</li><li>OpenRefine introduction</li><li>[RegEx](http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf), https://regex101.com, https://regexone.com/</li><li>Getting data in tabular/plain text format</li><li>Cleaning XML/HTML in R</li></ul>|Get your data into the correct format||
 |July 24th|1:00 P.M.|Shields 362|Introduction to Voyant, text mining|||
 |July 25th|1:00 P.M.|Shields 362|Introduction to network mapping with Gephi|||
-|July 26th|1:00 P.M.|Shields 362|Introduction to Inkscape|||
-|July 27th|1:00 P.M.|Shields 362|Introduction to mapping|||
-|July 30th|1:00 P.M.|Shields 362|<ul><li>Check in with Vessela</li><li>Independent work with support</li><ul>|||
-|July 31st|1:00 P.M.|Shields 362|Independent work with support|||
-|August 1st|1:00 P.M.|DSI space (conference room unavailable)|Independent work with support|||
-|August 2nd|1:00 P.M.|Shields 362|Independent work with support|||
+|July 26th|1:00 P.M.|Shields 362||||
+|July 27th|1:00 P.M.|Shields 362||||
+|July 30th|1:00 P.M.|Shields 362|<ul>Check in with Vessela</li><li>Independent work with support</li><ul>|||
+|July 31st|1:00 P.M.|Shields 362|<ul><li>Introduction to mapping</li><li>Independent work with support</li></ul>|||
+|August 1st|1:00 P.M.|Shields 362|Independent work with support|||
+  |August 2nd|1:00 P.M.|Shields 362|<ul><li>Introduction to Inkscape</li><li>Independent work with support</li><ul>|||
 |August 3rd|1:00 P.M.|Shields 362|<ul><li>Check in with Vessela</li><li>Independent work with support</li><ul>|||
-|August 6th|1:00 P.M.|DSI space (conference room unavailable)|Independent work with support|||
+|August 6th|1:00 P.M.|Shields 362|Independent work with support|||
 |August 7th|1:00 P.M.|Shields 362|Independent work with support|||
 |August 8th|1:00 P.M.|Shields 362|Independent work with support|||
 |August 9th|1:00 P.M.|Shields 362|Independent work with support|||
