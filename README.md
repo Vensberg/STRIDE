@@ -22,9 +22,9 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |July 27th|1:00 P.M.|Shields 362||||
 |July 30th|1:00 P.M.|Shields 362|<ul>Check in with Vessela</li><li>Independent work with support</li><ul>|||
 |July 31st|1:00 P.M.|Shields 362|<ul><li>Introduction to mapping</li><li>Independent work with support</li></ul>|||
-|August 1st|1:00 P.M.|Shields 362|Independent work with support|||
-  |August 2nd|1:00 P.M.|Shields 362|<ul><li>Introduction to Inkscape</li><li>Independent work with support</li><ul>|||
-|August 3rd|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><ul>|||
+|August 1st|1:00 P.M.|DSI Space|Independent work with support|||
+  |August 2nd|1:00 P.M.|Shields 362|Independent work with support|||
+|August 3rd|1:00 P.M.|Shields 362|<ul><li>Introduction to Inkscape</li><li>Independent work with support</li><ul>|||
 |August 6th|1:00 P.M.|Shields 362|<ul><li>Check in with Vessela</li><li>Independent work with support</li><ul>|||
 |August 7th|1:00 P.M.|Shields 362|Independent work with support|||
 |August 8th|1:00 P.M.|Shields 362|Independent work with support|||
