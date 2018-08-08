@@ -30,7 +30,7 @@ Curriculum for the Successful Transformation of a Research Idea into Data Engage
 |August 8th|1:00 P.M.|Shields 362|Independent work with support|||
 |August 9th|1:00 P.M.|Shields 362|Independent work with support|||
 |August 10th|1:00 P.M.|Shields 360 (classroom)|Independent work with support|||
-|August 13th|1:00 P.M.|Shields 360 (classroom)|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation: What was your question? What processes did you use to answer it? What was the answer? What did you gain over the past sic weeks? Future steps.|August 16|
+|August 13th|1:00 P.M.|Shields 360 (classroom)|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation: <ul><li>What was your question?</li><li>What processes did you use to answer it?</li><li>What was the answer?</li><li>What did you gain over the past six weeks?</li><li>Future steps.</li><ul>|August 16|
 |August 14th|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation|August 16|
 |August 15th|1:00 P.M.|Shields 362|<ul><li>Independent work with support</li><li>Final presentation prep</li><ul>|Final presentation|August 16|
 |August 16th|1:00 P.M.|TBD|<ul><li>Final presentations</li><li>Paragraph for website</li><li>Blog post</li><ul>|||
